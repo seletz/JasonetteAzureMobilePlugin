@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JasonetteAzureMobilePlugin_Example' do
+  pod 'JasonetteAzureMobilePlugin', :path => '../'
+
+  target 'JasonetteAzureMobilePlugin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
