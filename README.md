@@ -115,7 +115,7 @@ Once you did that, you can invoke the plug-in using something like this:
     }
   }
 }
-```s
+```
 
 ## Installation
 
