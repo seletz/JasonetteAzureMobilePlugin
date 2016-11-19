@@ -1,0 +1,19 @@
+PODS:
+  - JasonetteAzureMobilePlugin (0.1.0):
+    - MicrosoftAzureMobile
+  - MicrosoftAzureMobile (3.2.0)
+
+DEPENDENCIES:
+  - JasonetteAzureMobilePlugin (from `../`)
+
+EXTERNAL SOURCES:
+  JasonetteAzureMobilePlugin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JasonetteAzureMobilePlugin: 66c3e09b1ed2fd2717162a0e7400a471f2b24c80
+  MicrosoftAzureMobile: 04c756274c27134e80ff66c2dacc90db9af2bec8
+
+PODFILE CHECKSUM: 9746780aa7821b9e9980c9cd4a2e1080640b57b4
+
+COCOAPODS: 1.2.0.beta.1
